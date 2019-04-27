@@ -1,0 +1,22 @@
+{
+  "name": "humane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "humane.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holdy/humane.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Holdy/humane/issues"
+  },
+  "homepage": "https://github.com/Holdy/humane#readme"
+}
